@@ -35,7 +35,8 @@ Please refer to the license badge at the top of this document.
 
 These are the sources needed for the creation of the command-line CMS
 
-[]()
+[W3 Schools](https://www.w3schools.com/mysql/mysql_update.asp)
+[Stack Overflow](https://stackoverflow.com/questions/10562915/selecting-rows-with-id-from-another-table)
 
 
 ## GitHub
