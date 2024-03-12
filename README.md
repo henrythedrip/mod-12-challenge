@@ -22,6 +22,10 @@ First, users must install NPM through the command-line interface. This can be do
 
 Once users have used the command `npm run start` then they are presented with a series of choices. These choices are available to be selected by the user, and sorted through with the arrow keys. The choices are able to make changes to the database and update company information.
 
+Here is a video walk through guide of the program and how it works
+
+[Video Walkthrough Guide](https://drive.google.com/file/d/1TspJxoNPqdMec5-xtk0jid2nVLJ7Bx74/view?usp=sharing)
+
 ## License
 
 This project is licensed under the MIT license.

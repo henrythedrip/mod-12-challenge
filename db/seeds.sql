@@ -23,10 +23,10 @@ VALUES ("Bossman", 500000, 1),
 INSERT INTO employees (first_name, last_name, employee_roles, manager_id)
 VALUES ("Mr", "Manager", 1, null),
        ("Joe", "Schmo", 2, 1),
-       ("Smart", "Guy", 3, 1),
+       ("Smart", "Guy", 3, 2),
        ("Billy", "Bob", 4, 1),
-       ("Bobby", "Bill", 5, 1),
-       ("Sally", "Silly", 6, 1),
-       ("Jay", "Tee", 7, 1),
+       ("Bobby", "Bill", 5, 4),
+       ("Sally", "Silly", 6, 2),
+       ("Jay", "Tee", 7, 3),
        ("Drip", "Henry", 8, 1);
 
